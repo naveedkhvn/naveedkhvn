@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Naveed Khan 👋
 
-<!--
-**naveedkhvn/naveedkhvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## DevOps & Cloud Engineer | Docker | Kubernetes | Terraform
 
-Here are some ideas to get you started:
+🚀 I help businesses containerize their applications and deploy them to the cloud.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Docker & Docker Compose
+- Kubernetes & Container Orchestration
+- CI/CD Pipelines with GitHub Actions
+- Terraform & Infrastructure as Code
+- Cloud Deployment (Railway, Azure, AWS)
+- Prometheus & Grafana Monitoring
+- PostgreSQL & Database Containerization
+
+## 📂 Projects
+- 🐍 [Python Flask App with Docker & Kubernetes](https://github.com/naveedkhvn/my-python-app) — [Live Demo](https://my-python-app-production-76e4.up.railway.app)
+- ⚙️ [Infrastructure as Code with Terraform](https://github.com/naveedkhvn/my-terraform)
+
+## 📫 Contact
+- Email: nknaveed08@gmail.com
+- Fiverr: fiverr.com/naveedkhvn
